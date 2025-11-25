@@ -14,17 +14,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bencyubahiro77&theme=radical)
 ---
 
-## :computer: About Me
-
-- :telescope: I’m currently working on web and cloud projects  
-- :seedling: I’m learning advanced TypeScript & React patterns  
-- :dancers: I’m open to collaboration on React, Node.js, and AWS projects  
-- :zap: Fun fact: I love coding while listening to Podcast
-
----
-
-## :trophy: Achievements
-
-- AWS Certified Developer  
-- SAP CAP & UI5 Projects  
-- Built multiple dashboards & analytics apps  
