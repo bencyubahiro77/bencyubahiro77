@@ -7,10 +7,7 @@
 
 ## 🚀 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bencyubahiro77&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bencyubahiro77&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bencyubahiro77&theme=radical)
 ---
 
